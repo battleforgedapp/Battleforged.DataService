@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleforged.DataService", "Battleforged.DataService\Battleforged.DataService.csproj", "{9B4861DF-1509-486E-B872-2C0B1AFBAA49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleforged.DataService.Application", "Battleforged.DataService.Application\Battleforged.DataService.Application.csproj", "{768F6846-A86B-4E78-8537-0552E6765815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleforged.DataService.Domain", "Battleforged.DataService.Domain\Battleforged.DataService.Domain.csproj", "{497EA250-2AAF-4AB5-8979-77AEEA70797F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleforged.DataService.Infrastructure", "Battleforged.DataService.Infrastructure\Battleforged.DataService.Infrastructure.csproj", "{934CBCB3-3AA5-4379-A3C7-98A862F8FC57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B4861DF-1509-486E-B872-2C0B1AFBAA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4861DF-1509-486E-B872-2C0B1AFBAA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4861DF-1509-486E-B872-2C0B1AFBAA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4861DF-1509-486E-B872-2C0B1AFBAA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768F6846-A86B-4E78-8537-0552E6765815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768F6846-A86B-4E78-8537-0552E6765815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768F6846-A86B-4E78-8537-0552E6765815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768F6846-A86B-4E78-8537-0552E6765815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{497EA250-2AAF-4AB5-8979-77AEEA70797F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497EA250-2AAF-4AB5-8979-77AEEA70797F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497EA250-2AAF-4AB5-8979-77AEEA70797F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497EA250-2AAF-4AB5-8979-77AEEA70797F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934CBCB3-3AA5-4379-A3C7-98A862F8FC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934CBCB3-3AA5-4379-A3C7-98A862F8FC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934CBCB3-3AA5-4379-A3C7-98A862F8FC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934CBCB3-3AA5-4379-A3C7-98A862F8FC57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
